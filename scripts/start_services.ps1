@@ -1,0 +1,2 @@
+Start-Service TelegramCICDAgent
+Start-Service TelegramCICDBot

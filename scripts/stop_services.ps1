@@ -1,0 +1,2 @@
+Stop-Service TelegramCICDBot -ErrorAction SilentlyContinue
+Stop-Service TelegramCICDAgent -ErrorAction SilentlyContinue
